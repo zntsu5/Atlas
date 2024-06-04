@@ -29,7 +29,7 @@
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@hapi/boom": "^9.1.4",
     "@shineiichijo/mal-news-scraper": "^0.0.2",
-    "@shineiichijo/marika": "^2.0.6",
+    "@shineiichijo/marika": "^3.0.0",
     "anime-wallpaper": "^1.1.1",
     "awesome-phonenumber": "^4.2.1",
     "axios": "^1.2.2",
