@@ -45,7 +45,7 @@
     "discord-xp": "^1.1.16",
     "dotenv": "^16.0.3",
     "emoji-api": "^3.0.1",
-    "express": "^4.18.2",
+    "express": "^4.21.0",
     "ffmpeg": "^0.0.4",
     "figlet": "^1.5.2",
     "file-type": "^16.5.3",
